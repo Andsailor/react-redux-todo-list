@@ -1,0 +1,15 @@
+.tracker {
+    max-width: 736px;
+    margin: 0 auto;
+    margin-top: 80px;
+
+    &-content {
+        margin-top: 24px;
+    }
+}
+
+@media (max-width: 424px) {
+    .tracker {
+        margin-top: 50px;
+    }
+}
