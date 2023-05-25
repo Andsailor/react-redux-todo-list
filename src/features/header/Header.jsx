@@ -14,7 +14,7 @@ function Header() {
                 <img className='header-logo_todo' src={todo} alt="todo logo" />
                 <a
                     className='header-github'
-                    href="https://github.com/Andsailor/react-redux-todo-list">
+                    href="https://github.com/Andsailor">
                     <img
                         src="https://static-00.iconduck.com/assets.00/github-emoji-2048x2021-w2ge0ghn.png"
                         alt="github link img" />
